@@ -1,4 +1,4 @@
-# SimonStein
+# SimonStein3D
 
 **SimonStein** is a 3D first-person shooter game built using Unity, inspired by the classic game Wolfenstein. In SimonStein, players navigate through a series of complex levels set in a dystopian fortress, combating enemies and solving puzzles to progress. This project aims to replicate the nostalgic feel of classic 90s shooters with a modern twist.
 
